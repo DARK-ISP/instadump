@@ -12,7 +12,7 @@ app.set("views","./view");
 
 app.use("/",routerapp);
 
-const port = 800;
+const port = 8080;
 
 app.listen(port, ()=>{
     console.log(`server is running on: ${port}`)
