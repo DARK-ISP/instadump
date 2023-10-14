@@ -19,5 +19,4 @@ step 4: open terminal/ cmd  and write command
         $ngrok http 8080
 
 step 5: sent forwarded url to your victim device 
-
             DISCLAIMER:-       THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY. I AM NOT RESPONSIBLE FOR ANY MALICIOUS ACTIVITY THAT YOU MAY ENGAGE IN USING THIS TOOL. PLEASE DO NOT MISUSE THIS TOOL OR SCAM OTHERS.
